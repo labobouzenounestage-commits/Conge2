@@ -1,0 +1,6 @@
+{
+  "name": "Leave Manager",
+  "description": "Integrated Role-based Leave Management System with multi-language and approval workflows",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
